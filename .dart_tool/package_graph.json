@@ -1,0 +1,14 @@
+{
+  "roots": [
+    "dart_osnove"
+  ],
+  "packages": [
+    {
+      "name": "dart_osnove",
+      "version": "0.0.0",
+      "dependencies": [],
+      "devDependencies": []
+    }
+  ],
+  "configVersion": 1
+}

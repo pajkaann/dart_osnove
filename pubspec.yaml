@@ -1,0 +1,5 @@
+name: dart_osnove
+description: Osnove jezika Dart za one koji znaju C.
+
+environment:
+  sdk: ^3.12.0
