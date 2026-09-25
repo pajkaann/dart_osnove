@@ -12,6 +12,7 @@ void main(){
 
   final pluto = DwarfPlanet("Pluton", 5, 2005);
   pluto.introduce();
+  pluto.explainDemotion();
   }
 
 double auToKm(double au) => au * 149597870;
